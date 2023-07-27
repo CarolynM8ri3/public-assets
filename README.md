@@ -1,4 +1,4 @@
-# Style Asset
+# Style Asset Repository
 
 This is a public repository storing web assets. 
 
