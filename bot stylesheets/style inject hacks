@@ -1,0 +1,22 @@
+/* <style> */
+.bp-widget-web {
+    bottom: 50px!important;
+}
+.bp-widget-web {
+    z-index: 500000 !important;
+}
+/* </style> */
+
+
+
+/* 
+
+This style snippet moves the chat widget up on the page (above the Framer badge) 
+and keeps the open chat interface above the Framer badge on mobile.
+
+Add to head tag with embed snippet when installing on framer free demo sites.
+
+Necssary for testing chatbots on free Framer sites. 
+Not for deployment!
+
+*/
