@@ -1,7 +1,7 @@
-# Style Asset Repository
+# Public Asset Repository
 
-This is a public repository storing web assets. 
+This is a public repository storing web assets and handy code snippets. 
 
-It contains images in multiple formats PNG, JPEG, SVG, etc. 
+It contains images in multiple formats PNG, JPEG, SVG, etc. as well as CSS and JavaScript.
 
-Organization and accessibility are among the key features emphasized in the design of this repository.
+Free to use. If you use an image please cite me as the source :)
